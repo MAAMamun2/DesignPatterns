@@ -1,0 +1,15 @@
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.AssemblyInfoInputs.cache
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.AssemblyInfo.cs
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.exe
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.deps.json
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.runtimeconfig.json
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.runtimeconfig.dev.json
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.dll
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\bin\Debug\net5.0\SingletonDemo.pdb
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.dll
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\refint\SingletonDemo.dll
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.pdb
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\SingletonDemo.genruntimeconfig.cache
+D:\Personal\Personal\Project\Design Patterns\SingletonDemo\obj\Debug\net5.0\ref\SingletonDemo.dll

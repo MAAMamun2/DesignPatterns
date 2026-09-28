@@ -1,0 +1,14 @@
+﻿Singleton Design Pattern:
+Singleton Pattern belongs to Creational Type pattern . Creational type deals with object creation mechanisms.
+Singleton is used when we ensure that only one object of a particular class is instantiated that single instance created is responsible to coordinate actions across the application.
+
+Advantage of Singleton:
+ 	Singleton controls concurrent access to the resource
+ 	It ensures there is only one object available across the application in a controlled state.
+
+Implementation Guidelines:
+ 	•	Ensure that only one instance of the class exists.
+ 	•	Provide global access to that instance by
+            •	Declaring all constructors of the class to be private
+            •	Providing static method that returns a reference to the instance.
+            •	The instance is stored as a private static variable.

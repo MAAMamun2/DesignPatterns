@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Personal\\Project\\Design Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|d:\\personal\\personal\\project\\design patterns\\singletondemo\\singleton design pattern.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|solutionrelative:singletondemo\\singleton design pattern.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|d:\\personal\\personal\\project\\design patterns\\singletondemo\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|solutionrelative:singletondemo\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\idatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\idatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\oracelconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\oracelconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\oracledatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\oracledatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\sqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\sqldatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\sqldatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\databaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\databaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|d:\\personal\\personal\\project\\design patterns\\singletondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C341E8-FA3F-4173-AC5F-34100E386BEE}|SingletonDemo\\SingletonDemo.csproj|solutionrelative:singletondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86440F82-3273-4F24-938D-18E52D32D1BC}|Mediator Pattern\\Mediator Pattern.csproj|d:\\personal\\personal\\project\\design patterns\\mediator pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86440F82-3273-4F24-938D-18E52D32D1BC}|Mediator Pattern\\Mediator Pattern.csproj|solutionrelative:mediator pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|d:\\personal\\personal\\project\\design patterns\\builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B28524-9FEC-4236-966C-880B2CDDA748}|Builder\\Builder.csproj|solutionrelative:builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|d:\\personal\\personal\\project\\design patterns\\command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|solutionrelative:command\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|d:\\personal\\personal\\project\\design patterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|d:\\personal\\personal\\project\\design patterns\\command\\inserttextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|solutionrelative:command\\inserttextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|d:\\personal\\personal\\project\\design patterns\\factory method\\factory method.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EF312CE-CC08-4F28-BAE6-B65A851326CF}|Factory Method\\Factory Method.csproj|solutionrelative:factory method\\factory method.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|d:\\personal\\personal\\project\\design patterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|solutionrelative:command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|d:\\personal\\personal\\project\\design patterns\\command\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B93CDC-DB69-4382-A8C4-D4B7C4F23AC7}|Command\\Command.csproj|solutionrelative:command\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLDatabaseConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\SQLDatabaseConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Factory Method\\SQLDatabaseConnectionFactory.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\SQLDatabaseConnectionFactory.cs",
+              "RelativeToolTip": "Factory Method\\SQLDatabaseConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:04:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\Program.cs",
+              "RelativeDocumentMoniker": "Factory Method\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\Program.cs",
+              "RelativeToolTip": "Factory Method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:01:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OracelConnection.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\OracelConnection.cs",
+              "RelativeDocumentMoniker": "Factory Method\\OracelConnection.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\OracelConnection.cs",
+              "RelativeToolTip": "Factory Method\\OracelConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:08:20.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OracleDatabaseConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\OracleDatabaseConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Factory Method\\OracleDatabaseConnectionFactory.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\OracleDatabaseConnectionFactory.cs",
+              "RelativeToolTip": "Factory Method\\OracleDatabaseConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:07:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDatabaseConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\IDatabaseConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Factory Method\\IDatabaseConnectionFactory.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\IDatabaseConnectionFactory.cs",
+              "RelativeToolTip": "Factory Method\\IDatabaseConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:03:02.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Singleton.cs",
+              "RelativeDocumentMoniker": "SingletonDemo\\Singleton.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Singleton.cs",
+              "RelativeToolTip": "SingletonDemo\\Singleton.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:27:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton Design Pattern.txt",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Singleton Design Pattern.txt",
+              "RelativeDocumentMoniker": "SingletonDemo\\Singleton Design Pattern.txt",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Singleton Design Pattern.txt",
+              "RelativeToolTip": "SingletonDemo\\Singleton Design Pattern.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T10:52:53.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseClient.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\DatabaseClient.cs",
+              "RelativeDocumentMoniker": "Factory Method\\DatabaseClient.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\DatabaseClient.cs",
+              "RelativeToolTip": "Factory Method\\DatabaseClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:30:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "Factory Method\\SqlConnection.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\SqlConnection.cs",
+              "RelativeToolTip": "Factory Method\\SqlConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:05:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\IDatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Factory Method\\IDatabaseConnection.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\IDatabaseConnection.cs",
+              "RelativeToolTip": "Factory Method\\IDatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:03:45.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OfficeComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\OfficeComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\OfficeComputerBuilder.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\OfficeComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\OfficeComputerBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:31:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GamingComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\GamingComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\GamingComputerBuilder.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\GamingComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\GamingComputerBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:22:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\IComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\IComputerBuilder.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\IComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\IComputerBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:20:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComputerDirector.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\ComputerDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\ComputerDirector.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\ComputerDirector.cs",
+              "RelativeToolTip": "Builder\\ComputerDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:33:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\Computer.cs",
+              "RelativeDocumentMoniker": "Builder\\Computer.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\Computer.cs",
+              "RelativeToolTip": "Builder\\Computer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:16:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:12:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonDemo\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\SingletonDemo\\Program.cs",
+              "RelativeToolTip": "SingletonDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:21:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Mediator Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator Pattern\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Mediator Pattern\\Program.cs",
+              "RelativeToolTip": "Mediator Pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:41:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:33:03.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command\\ICommand.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\ICommand.cs",
+              "RelativeToolTip": "Command\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:33:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InsertTextCommand.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\InsertTextCommand.cs",
+              "RelativeDocumentMoniker": "Command\\InsertTextCommand.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\InsertTextCommand.cs",
+              "RelativeToolTip": "Command\\InsertTextCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:35:12.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\Document.cs",
+              "RelativeDocumentMoniker": "Command\\Document.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\Document.cs",
+              "RelativeToolTip": "Command\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:36:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\CommandManager.cs",
+              "RelativeDocumentMoniker": "Command\\CommandManager.cs",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Command\\CommandManager.cs",
+              "RelativeToolTip": "Command\\CommandManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:03:54.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Factory Method.csproj",
+              "DocumentMoniker": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\Factory Method.csproj",
+              "RelativeDocumentMoniker": "Factory Method\\Factory Method.csproj",
+              "ToolTip": "D:\\Personal\\Personal\\Project\\Design Patterns\\Factory Method\\Factory Method.csproj",
+              "RelativeToolTip": "Factory Method\\Factory Method.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T07:11:14.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
